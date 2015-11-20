@@ -1,0 +1,20 @@
+{
+  "author": "uri leshem",
+  "name": "luriPkg",
+  "version": "0.1.1",
+  "description": "Censors words out of text",
+  "main": "censortext",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lurihub/luripkg"
+  },
+  "keywords": [
+    "luripkg"
+  ],
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+}
+
+
